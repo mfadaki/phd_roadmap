@@ -1,3 +1,10 @@
+---
+title: "PhD Journey"
+permalink: /
+layout: default
+---
+
+
 # PhD Roadmap to ADP
 
 **Path:** Background → MDP / Exact DP → RL → ADP → Unified framework → Research
