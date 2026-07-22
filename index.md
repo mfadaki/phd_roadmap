@@ -2,6 +2,9 @@
 title: "PhD Journey"
 permalink: /
 layout: default
+markdown: kramdown
+kramdown:
+  math_engine: mathjax
 ---
 
 
