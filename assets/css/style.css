@@ -79,6 +79,24 @@ th,td{
 
 }
 
+thead th{
+
+    background:#f6f8fa;
+
+}
+
+tbody tr:nth-child(even){
+
+    background:#f6f8fa;
+
+}
+
+tbody tr:nth-child(odd){
+
+    background:#ffffff;
+
+}
+
 blockquote{
 
     border-left:4px solid #d0d7de;
