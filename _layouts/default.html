@@ -21,6 +21,17 @@ window.MathJax = {
         inlineMath: [['$', '$'], ['\\(', '\\)']],
         displayMath: [['$$','$$'],['\\[','\\]']],
         processEscapes: true
+    },
+    startup: {
+        pageReady: function() {
+            document.querySelectorAll('code.language-math').forEach(function(code) {
+                var pre = code.closest('pre') || code;
+                var div = document.createElement('div');
+                div.textContent = '\\[' + code.textContent + '\\]';
+                pre.replaceWith(div);
+            });
+            return MathJax.startup.defaultPageReady();
+        }
     }
 };
 </script>
