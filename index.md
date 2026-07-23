@@ -19,6 +19,10 @@ $$
 $x^2=y_1$
 
 $`a^2 + b^2 = c^2`$
+
+```math
+E = mc^2
+```
 ---
 
 ## PhD milestones (RMIT)
