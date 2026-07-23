@@ -1,5 +1,12 @@
 title: PhD Roadmap
+description: Roadmap for PhD Students
+
 markdown: kramdown
+highlighter: rouge
+
 kramdown:
   input: GFM
   math_engine: mathjax
+
+plugins:
+  - jekyll-feed

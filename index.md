@@ -16,6 +16,14 @@ $x^2=y_1$
 
 $$||V^{alg} - V^*||_{1,\nu} \le UB$$
 
+$V^{alg}-V^* \le \frac{1}{\nu}UB$
+
+```python
+
+print("Hello World")
+
+```
+
 ---
 
 ## PhD milestones (RMIT)
