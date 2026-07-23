@@ -8,22 +8,6 @@ layout: default
 
 **Path:** Background → MDP / Exact DP → RL → ADP → Unified framework → Research
 
-$$
-x^2 = y_1
-$$
-
-$x^2=y_1$
-
-$$||V^{alg} - V^*||_{1,\nu} \le UB$$
-
-$V^{alg}-V^* \le \frac{1}{\nu}UB$
-
-```python
-
-print("Hello World")
-
-```
-
 ---
 
 ## PhD milestones (RMIT)
@@ -79,8 +63,8 @@ Final milestone; shows you are on track to submit. Submit at least 15 days befor
 -  **[Stephen Boyd, Stanford EE364A Convex Optimization I (video lectures, 2023)](https://www.youtube.com/playlist?list=PLoROMvodv4rMJqxxviPa4AmDClvcbHi6h)**: the author's own lecture series, the video companion to the book.
 -  **[James et al., An Introduction to Statistical Learning (ISL)](https://www.statlearning.com/)**
   -  PAC (Probably Approximately Correct) Learning
-  -  $||V^{alg} - V^*||_{1,\nu} \le UB$ with probability of $1-\delta$
-  -  $||V^{alg} - V^*||_{1,\nu} = \mathbb{E}_\nu |V^{alg} - V^*|$
+$||V^{alg} - V^*||_{1,\nu} \le UB$ with probability of $1-\delta$
+$||V^{alg} - V^*||_{1,\nu} = \mathbb{E}_\nu |V^{alg} - V^*|$
 -  Markov chains 
 -  Conditional expectation, the law of total expectation, approximating expectations.
 -  Algorithm Design, Iterative algorithms, Algorithm Complexity (Big O, ...), Lower bound, Upper Bound for an algorithm.
