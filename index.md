@@ -12,6 +12,13 @@ kramdown:
 
 **Path:** Background → MDP / Exact DP → RL → ADP → Unified framework → Research
 
+$$
+x^2 = y_1
+$$
+
+$x^2=y_1$
+
+$`a^2 + b^2 = c^2`$
 ---
 
 ## PhD milestones (RMIT)
