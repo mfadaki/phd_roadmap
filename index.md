@@ -69,9 +69,6 @@ $\lVert V^{alg} - V^* \rVert_{1,\nu} \le UB \; \;$ with probability of $1-\delta
 
 $\lVert V^{alg} - V^* \rVert_{1,\nu} = \mathbb{E}_\nu \lvert V^{alg} - V^*\rvert$
 
-```math
-\lVert \lVert V^{alg} - V^* \rVert \rVert_{1,\nu} = \mathbb{E}_\nu \lvert V^{alg} - V^*\rvert
-```
 -  Markov chains 
 -  Conditional expectation, the law of total expectation, approximating expectations.
 -  Algorithm Design, Iterative algorithms, Algorithm Complexity (Big O, ...), Lower bound, Upper Bound for an algorithm.
@@ -86,7 +83,7 @@ $\lVert V^{alg} - V^* \rVert_{1,\nu} = \mathbb{E}_\nu \lvert V^{alg} - V^*\rvert
 -  Norm ($1, 2, \infty, weighted$)
 -  Famous Inequalities/Bounds: Markov, Hoeffding, Jensen, Chernoff, Chebyshev, Chernoff, McDiarmid, Cauchy-Schwartz, etc.
 -  Stochastic Optimization + Decomposition (e.g.,  Advanced Optimization, lecture 8, 9, 10 [Jalal Kazempour](https://www.youtube.com/@jalalkazempour1429))
--  
+
 
 ### Phase 2: MDP foundations
 
