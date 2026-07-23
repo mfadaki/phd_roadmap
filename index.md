@@ -64,14 +64,14 @@ Final milestone; shows you are on track to submit. Submit at least 15 days befor
 -  **[James et al., An Introduction to Statistical Learning (ISL)](https://www.statlearning.com/)**
 -  PAC (Probably Approximately Correct) Learning
 
-$||V^{alg} - V^*||_{1,\nu} \le UB$ with probability of $1-\delta$
+$\lVert \lVert V^{alg} - V^* \rVert \rVert_{1,\nu} \le UB$ with probability of $1-\delta$
 
-$$||V^{alg} - V^*||_{1,\nu} \le UB$ with probability of $1-\delta$$
+$$\lVert \lVert V^{alg} - V^* \rVert \rVert_{1,\nu} \le UB$ with probability of $1-\delta$$
 
-$||V^{alg} - V^*||_{1,\nu} = \mathbb{E}_\nu |V^{alg} - V^*|$
+$\lVert \lVert V^{alg} - V^* \rVert \rVert_{1,\nu} = \mathbb{E}_\nu |V^{alg} - V^*|$
 
 ```math
-$||V^{alg} - V^*||_{1,\nu} = \mathbb{E}_\nu |V^{alg} - V^*|$
+$\lVert \lVert V^{alg} - V^* \rVert \rVert_{1,\nu} = \mathbb{E}_\nu |V^{alg} - V^*|$
 ```
 -  Markov chains 
 -  Conditional expectation, the law of total expectation, approximating expectations.
