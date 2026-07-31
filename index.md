@@ -74,6 +74,7 @@ $\lVert V^{alg} - V^* \rVert_{1,\nu} = \mathbb{E}_\nu \lvert V^{alg} - V^*\rvert
 -  Algorithm Design, Iterative algorithms, Algorithm Complexity (Big O, ...), Lower bound, Upper Bound for an algorithm.
 -  Gradient Descent, Stochastic Gradient Descent, Mirror Descent
 -  Lipschitz continuity
+-  Bias vs Variance in Machine Learning. [Example](https://www.youtube.com/watch?v=EuBBz3bI-aA).
 -  Kernel, Kernel Density Estimation, Kernel Regression, Kernel Tricks
 -  Uncertainty Modeling - Probability distributions, Ambiguity sets, etc.
 -  Primal-Dual methods + Column Generation
