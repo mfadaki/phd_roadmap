@@ -75,7 +75,7 @@ $\lVert V^{alg} - V^* \rVert_{1,\nu} = \mathbb{E}_\nu \lvert V^{alg} - V^*\rvert
 -  Gradient Descent, Stochastic Gradient Descent, Mirror Descent
 -  Lipschitz continuity
 -  Bias vs Variance in Machine Learning. [Example](https://www.youtube.com/watch?v=EuBBz3bI-aA).
--  Kernel, Kernel Density Estimation, Kernel Regression, Kernel Tricks
+-  Kernel, [Kernel Density Estimation](https://www.youtube.com/watch?v=6sGOMbC5xdE), [Kernel Regression](https://www.youtube.com/watch?v=4zji4SGWw6I&t=18s), [Kernel Tricks](https://www.youtube.com/watch?v=wBVSbVktLIY)
 -  Uncertainty Modeling - Probability distributions, Ambiguity sets, etc.
 -  Primal-Dual methods + Column Generation
 -  Function Approximation
