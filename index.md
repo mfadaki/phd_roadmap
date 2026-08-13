@@ -83,7 +83,8 @@ $\lVert V^{alg} - V^* \rVert_{1,\nu} = \mathbb{E}_\nu \lvert V^{alg} - V^*\rvert
 -  Lagrangian
 -  Norm ($1, 2, \infty, weighted$)
 -  Famous Inequalities/Bounds: Markov, Hoeffding, Jensen, Chernoff, Chebyshev, Chernoff, McDiarmid, Cauchy-Schwartz, etc.
--  Stochastic Optimization + Decomposition (e.g.,  Advanced Optimization, lecture 8, 9, 10 [Jalal Kazempour](https://www.youtube.com/@jalalkazempour1429))
+-  Stochastic Optimization + With Recourse + Decomposition (e.g.,  Advanced Optimization, lecture 8, 9, 10 [Jalal Kazempour](https://www.youtube.com/@jalalkazempour1429))
+-  Dynamic Programming and Bellman Equation
 
 
 ### Phase 2: MDP foundations
